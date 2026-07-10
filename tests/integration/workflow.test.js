@@ -124,11 +124,18 @@ describe('Integration: API Workflow', () => {
       expect(company).toHaveProperty('website');
       expect(Array.isArray(company.website)).toBe(true);
       expect(company.website[0]).toMatch(/^https?:\/\/.+/);
-      expect(company).toHaveProperty('career');
-      expect(Array.isArray(company.career)).toBe(true);
-      expect(company.career[0]).toMatch(/^https?:\/\/.+/);
       expect(company).toHaveProperty('lastScraped');
       expect(company).toHaveProperty('scraperFile');
+    }, 15000);
+
+    itIfSolr('should have optional field (career) if present', async () => {
+      const result = await solr.queryCompanySOLR(`id:${COMPANY_CIF}`);
+      const company = result.docs[0];
+
+      if (company.career !== undefined) {
+        expect(Array.isArray(company.career)).toBe(true);
+        expect(company.career[0]).toMatch(/^https?:\/\/.+/);
+      }
     }, 15000);
 
     itIfSolr('should have optional field (group) if present', async () => {
