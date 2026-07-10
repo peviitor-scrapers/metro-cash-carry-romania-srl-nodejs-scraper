@@ -10,11 +10,39 @@
 | Location | B-dul THEODOR PALLADY, 51 N, Bucureşti Sectorul 3, Bucureşti |
 | Website | [https://www.metro.ro](https://www.metro.ro) |
 | Careers | [https://cariere.metro.ro/jobs](https://cariere.metro.ro/jobs) |
-| Last Scraped | 2026-06-27 |
+| Last Scraped | 2026-07-10 |
 
-## Current Job Listings (13)
+## Current Job Listings (15)
 
-_Generated: 2026-06-27T11:59:11.430Z_
+_Generated: 2026-07-10T12:39:05.314Z_
+
+### Coordonator Regional Intretinere
+
+- **URL:** [https://cariere.metro.ro/job/coordonator-regional-intretinere-in-calea-sagului-timisoara-jid-33148](https://cariere.metro.ro/job/coordonator-regional-intretinere-in-calea-sagului-timisoara-jid-33148)
+- **Location:** România
+- **Tags:** store
+- **Status:** scraped
+
+### Marketing Manager
+
+- **URL:** [https://cariere.metro.ro/job/marketing-manager-in-bulevardul-theodor-pallady-bucuresti-jid-33097](https://cariere.metro.ro/job/marketing-manager-in-bulevardul-theodor-pallady-bucuresti-jid-33097)
+- **Location:** România
+- **Tags:** marketing pr
+- **Status:** scraped
+
+### Head of Business Development
+
+- **URL:** [https://cariere.metro.ro/job/head-of-business-development-in-bulevardul-theodor-pallady-bucuresti-jid-33092](https://cariere.metro.ro/job/head-of-business-development-in-bulevardul-theodor-pallady-bucuresti-jid-33092)
+- **Location:** România
+- **Tags:** business development expansion
+- **Status:** scraped
+
+### Picker (pregătire comenzi)_METRO Constanta 1
+
+- **URL:** [https://cariere.metro.ro/job/picker-pregatire-comenzi-metro-constanta-1-in-bulevardul-aurel-vlaicu-constanta-jid-15143](https://cariere.metro.ro/job/picker-pregatire-comenzi-metro-constanta-1-in-bulevardul-aurel-vlaicu-constanta-jid-15143)
+- **Location:** România
+- **Tags:** logistics delivery
+- **Status:** scraped
 
 ### Accountant (Fixed Asset) | Maternity Cover
 
@@ -72,30 +100,16 @@ _Generated: 2026-06-27T11:59:11.430Z_
 - **Tags:** store
 - **Status:** scraped
 
-### Tax Manager
+### REFERENT
 
-- **URL:** [https://cariere.metro.ro/job/tax-manager-in-bulevardul-theodor-pallady-bucuresti-jid-29499](https://cariere.metro.ro/job/tax-manager-in-bulevardul-theodor-pallady-bucuresti-jid-29499)
-- **Location:** România
-- **Tags:** financiar
-- **Status:** scraped
-
-### Picker (pregătire comenzi)
-
-- **URL:** [https://cariere.metro.ro/job/picker-pregatire-comenzi-in-bulevardul-theodor-pallady-bucuresti-jid-15142](https://cariere.metro.ro/job/picker-pregatire-comenzi-in-bulevardul-theodor-pallady-bucuresti-jid-15142)
-- **Location:** România
-- **Tags:** logistics delivery
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3316661](https://mediere.anofm.ro/app/module/mediere/job/3316661)
+- **Location:** TARGU MURES
 - **Status:** scraped
 
 ### LUCRATOR COMERCIAL
 
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3301941](https://mediere.anofm.ro/app/module/mediere/job/3301941)
 - **Location:** România
-- **Status:** scraped
-
-### REFERENT
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3300630](https://mediere.anofm.ro/app/module/mediere/job/3300630)
-- **Location:** SUCEAVA
 - **Status:** scraped
 
 ### LUCRATOR COMERCIAL
