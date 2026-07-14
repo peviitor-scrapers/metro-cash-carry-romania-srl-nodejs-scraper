@@ -10,11 +10,11 @@
 | Location | B-dul THEODOR PALLADY, 51 N, Bucureşti Sectorul 3, Bucureşti |
 | Website | [https://www.metro.ro](https://www.metro.ro) |
 | Careers | [https://cariere.metro.ro/jobs](https://cariere.metro.ro/jobs) |
-| Last Scraped | 2026-07-12 |
+| Last Scraped | 2026-07-14 |
 
-## Current Job Listings (15)
+## Current Job Listings (16)
 
-_Generated: 2026-07-12T08:08:29.865Z_
+_Generated: 2026-07-14T07:53:55.748Z_
 
 ### Coordonator Regional Intretinere
 
@@ -100,16 +100,22 @@ _Generated: 2026-07-12T08:08:29.865Z_
 - **Tags:** store
 - **Status:** scraped
 
-### REFERENT
+### LUCRATOR COMERCIAL
 
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3316661](https://mediere.anofm.ro/app/module/mediere/job/3316661)
-- **Location:** TARGU MURES
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3326517](https://mediere.anofm.ro/app/module/mediere/job/3326517)
+- **Location:** CLUJ-NAPOCA
 - **Status:** scraped
 
 ### LUCRATOR COMERCIAL
 
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3301941](https://mediere.anofm.ro/app/module/mediere/job/3301941)
-- **Location:** România
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3326513](https://mediere.anofm.ro/app/module/mediere/job/3326513)
+- **Location:** ORADEA
+- **Status:** scraped
+
+### REFERENT
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3316661](https://mediere.anofm.ro/app/module/mediere/job/3316661)
+- **Location:** TARGU MURES
 - **Status:** scraped
 
 ### LUCRATOR COMERCIAL
