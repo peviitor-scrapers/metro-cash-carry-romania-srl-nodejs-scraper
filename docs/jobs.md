@@ -10,11 +10,11 @@
 | Location | B-dul THEODOR PALLADY, 51 N, Bucureşti Sectorul 3, Bucureşti |
 | Website | [https://www.metro.ro](https://www.metro.ro) |
 | Careers | [https://cariere.metro.ro/jobs](https://cariere.metro.ro/jobs) |
-| Last Scraped | 2026-07-14 |
+| Last Scraped | 2026-07-15 |
 
 ## Current Job Listings (16)
 
-_Generated: 2026-07-14T07:53:55.748Z_
+_Generated: 2026-07-15T07:58:33.444Z_
 
 ### Coordonator Regional Intretinere
 
