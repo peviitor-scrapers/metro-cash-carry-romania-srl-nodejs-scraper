@@ -10,11 +10,11 @@
 | Location | B-dul THEODOR PALLADY, 51 N, Bucureşti Sectorul 3, Bucureşti |
 | Website | [https://www.metro.ro](https://www.metro.ro) |
 | Careers | [https://cariere.metro.ro/jobs](https://cariere.metro.ro/jobs) |
-| Last Scraped | 2026-07-22 |
+| Last Scraped | 2026-07-23 |
 
-## Current Job Listings (15)
+## Current Job Listings (16)
 
-_Generated: 2026-07-22T08:18:30.673Z_
+_Generated: 2026-07-23T08:22:03.514Z_
 
 ### Coordonator Regional Intretinere
 
@@ -98,6 +98,12 @@ _Generated: 2026-07-22T08:18:30.673Z_
 - **URL:** [https://cariere.metro.ro/job/lucrator-comercial-magazin-metro-timisoara-1-in-calea-sagului-timisoara-jid-30818](https://cariere.metro.ro/job/lucrator-comercial-magazin-metro-timisoara-1-in-calea-sagului-timisoara-jid-30818)
 - **Location:** România
 - **Tags:** store
+- **Status:** scraped
+
+### LUCRATOR COMERCIAL
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3334424](https://mediere.anofm.ro/app/module/mediere/job/3334424)
+- **Location:** România
 - **Status:** scraped
 
 ### LUCRATOR COMERCIAL
