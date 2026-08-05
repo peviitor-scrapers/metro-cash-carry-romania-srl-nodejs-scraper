@@ -5,6 +5,29 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.5.2] - 2026-07-31
+
+### Changed
+- Removed stale derived-scraper reference in CHANGELOG
+
+## [1.5.1] - 2026-06-21
+
+### Changed
+- Restructured repo to `scraper/` layout — `index.js` → `scraper/index.js`, `company.js` → `scraper/company.js`, `demoanaf.js` → `scraper/demoanaf.js`, `src/anaf.js` → `scraper/anaf.js`, `src/job-validator.js` → `scraper/job-validator.js`, `src/markdown-generator.js` → `scraper/markdown-generator.js`, `validate-jobs.js` → `scraper/validate-jobs.js`
+- Replaced direct SOLR access with the Peviitor API: `solr.js` → `scraper/api.js` (query, delete, upsert jobs/company via `api.peviitor.ro`); removed `SOLR_AUTH` from code, workflows, and tests
+- Moved config to `scraper/config/` — `config/company.json` → `scraper/config/company.json` (schema now `id`/`company`/`brand`/`status`/`location`/`website`/`career`/`scraperFile`), added `scraper/config/scraper.json` (`apiBase`, `apiCountryId`)
+- Moved docs to `ai/` — root `.md` files (`AGENTS.md`, `BRANCH.md`, `INSTRUCTIONS.md`, `ISSUES.md`, `PUBLIC.md`, `ROBOTS.md`, `TOPICS.md`, `VERIFY.md`, `files.md`, `company-model.md`, `job-model.md`, `UPDATE-REPO-ABOUT.md`) moved into `ai/`
+- `scraper/markdown-generator.js`: added `escapeMarkdown()` — escapes `# * _ [ ] \`` in company and job fields so `docs/jobs.md` stays valid Markdown
+- `scraper/job-validator.js`: added `validateByBrowser()` (Playwright headless Chromium, catches JS-rendered 404s) and new keyword "the page you are looking for doesn't exist"
+- `tests/validate-metro-jobs.js`: multi-mode validator (`--head`, `--content`, `--browser`, `--timeout`)
+- Workflows: `.github/workflows/job-seeker-ro-spider.yml` and `automation-testing.yml` now upsert the company via the Peviitor API (no `SOLR_AUTH`), pass full career/website/location arrays, and upsert `scraperFile`
+- New workflows: `.github/workflows/job-deep-validate.yml` (manual Playwright deep validation), `.github/workflows/job-recovery-from-disaster.yml`, `.github/workflows/automation-template-sync-check.yml` (weekly check that derived scrapers match this template)
+- New files: `CODE_OF_CONDUCT.md`, `ai/MAINTENANCE.md`, `ai/AI-DERIVATION-GUIDE.md`
+- New tests: `tests/unit/api.test.js`, `tests/consistency/root-files.test.js`, `tests/consistency/version.test.js`; removed `tests/unit/solr.test.js`
+- `docs/index.html`: read company fields from `cfg.company`/`cfg.id` instead of the legacy `cfg.legalName`/`cfg.cif`
+- `package.json`: main → `scraper/index.js`, added `playwright` devDependency
+- Removed SOLR-only artifacts: `solr.js`, `delete_request.json`, `src/cuifirma.js`
+
 ## [1.5.0] - 2026-06-18
 
 ### Added

@@ -3,12 +3,14 @@ import * as cheerio from "cheerio";
 import fs from "fs";
 import { fileURLToPath } from "url";
 import { validateAndGetCompany } from "./company.js";
-import { querySOLR, deleteJobByUrl, upsertJobs, upsertCompany } from "./solr.js";
-import { generateJobsMarkdown } from "./src/markdown-generator.js";
+import { querySOLR, upsertJobs, upsertCompany, deleteJobByUrl } from "./api.js";
+import { generateJobsMarkdown } from "./markdown-generator.js";
 import companyConfig from "./config/company.js";
+import scraperConfig from "./config/scraper.js";
 
-const COMPANY_CIF = companyConfig.cif;
-const TARGET_URL = companyConfig.careerUrl;
+const COMPANY_CIF = companyConfig.id;
+const JOB_BASE = scraperConfig.apiBase;
+const TARGET_URL = companyConfig.career[0];
 
 const TIMEOUT = 10000;
 
@@ -88,7 +90,7 @@ function parseJobsHTML(html) {
 
     const url = $el.find(".attrax-vacancy-tile__title").first().attr("href") || "";
 
-    const fullUrl = url.startsWith("http") ? url : `https://cariere.metro.ro${url}`;
+    const fullUrl = url.startsWith("http") ? url : `${JOB_BASE}${url}`;
 
     const tags = [];
     const allClasses = ($el.attr("class") || "") + " " + ($el.find('[class*="sector-"]').first().attr("class") || "");
@@ -108,7 +110,7 @@ function parseJobsHTML(html) {
   return jobs;
 }
 
-async function scrapeAllListings() {
+async function scrapeAllListings(testOnlyOnePage = false) {
   console.log("Fetching job listings from METRO careers page...");
   const html = await fetchJobListings();
   const jobs = parseJobsHTML(html);
@@ -126,7 +128,7 @@ function mapToJobModel(rawJob, cif, companyName = COMPANY_NAME) {
     cif: cif,
     location: rawJob.location?.length ? rawJob.location : undefined,
     tags: rawJob.tags?.length ? rawJob.tags : undefined,
-    workmode: rawJob.workmode,
+    workmode: rawJob.workmode || undefined,
     date: now,
     status: "scraped"
   };
@@ -182,97 +184,130 @@ function transformJobsForSOLR(payload) {
   return transformed;
 }
 
+// ============================================================================
+// MAIN
+// ============================================================================
+
 async function main() {
   const testOnlyOnePage = process.argv.includes("--test");
 
   try {
-    fs.mkdirSync("tmp", { recursive: true });
+    fs.mkdirSync("scraper", { recursive: true });
 
-    console.log("=== Step 1: Get existing jobs count ===");
+    console.log("=== Step 1: Get existing jobs from SOLR ===");
     const existingResult = await querySOLR(COMPANY_CIF);
     const existingCount = existingResult.numFound;
+    const existingUrls = new Set(existingResult.docs.map(doc => doc.url).filter(Boolean));
     console.log(`Found ${existingCount} existing jobs in SOLR`);
 
     console.log("=== Step 2: Validate company via ANAF ===");
-    const { company, cif, address } = await validateAndGetCompany();
+    const { company, cif, address, status } = await validateAndGetCompany();
     COMPANY_NAME = company;
-    const localCif = cif;
+    if (status === 'inactive') {
+      console.log("⚠️ Company is INACTIVE — jobs deleted, skipping scrape.");
+      return;
+    }
 
     try {
       await upsertCompany({
         id: cif,
         company,
-        brand: companyConfig.brand,
-        status: "activ",
-        location: address ? [address] : [companyConfig.defaultLocation],
-        website: [companyConfig.website],
-        career: [companyConfig.careerUrl],
+        brand: companyConfig.brand || undefined,
+        status: status === 'active' ? 'activ' : (status || "activ"),
+        location: address ? [address] : companyConfig.location,
+        website: companyConfig.website,
+        career: companyConfig.career,
         lastScraped: new Date().toISOString().split('T')[0],
         scraperFile: companyConfig.scraperFile
       });
     } catch (err) {
-      console.log(`Note: Could not upsert company to SOLR core: ${err.message}`);
+      console.log(`Note: Could not upsert company: ${err.message}`);
     }
 
-    const rawJobs = await scrapeAllListings();
+    const rawJobs = await scrapeAllListings(testOnlyOnePage);
     const scrapedCount = rawJobs.length;
-    console.log(`📊 Jobs scraped from METRO website: ${scrapedCount}`);
+    console.log(`Jobs scraped from METRO Careers website: ${scrapedCount}`);
 
     if (!testOnlyOnePage) {
-      const anofmJobs = await searchANOFM(localCif);
+      const anofmJobs = await searchANOFM(cif);
       const anofmCount = anofmJobs.length;
       for (const job of anofmJobs) {
         if (!rawJobs.find(j => j.url === job.url)) {
           rawJobs.push(job);
         }
       }
-      console.log(`📊 Jobs added from ANOFM: ${anofmCount}`);
+      console.log(`Jobs added from ANOFM: ${anofmCount}`);
     }
 
-    const jobs = rawJobs.map(job => mapToJobModel(job, localCif));
+    const jobs = rawJobs.map(job => mapToJobModel(job, cif));
 
     const payload = {
       source: "cariere.metro.ro",
       scrapedAt: new Date().toISOString(),
       company: COMPANY_NAME,
-      cif: localCif,
+      cif: cif,
       jobs
     };
 
     console.log("Transforming jobs for SOLR...");
     const transformedPayload = transformJobsForSOLR(payload);
     const validCount = transformedPayload.jobs.filter(j => j.location).length;
-    console.log(`📊 Jobs with valid Romanian locations: ${validCount}`);
+    console.log(`Jobs with valid Romanian locations: ${validCount}`);
 
-    fs.writeFileSync("tmp/jobs.json", JSON.stringify(transformedPayload, null, 2), "utf-8");
-    console.log("Saved tmp/jobs.json");
+    fs.writeFileSync("scraper/jobs.json", JSON.stringify(transformedPayload, null, 2), "utf-8");
+    console.log("Saved scraper/jobs.json");
 
     const companyData = {
-      id: localCif,
+      id: cif,
       company: transformedPayload.company,
-      brand: companyConfig.brand,
-      status: "activ",
-      location: address ? [address] : [companyConfig.defaultLocation],
-      website: [companyConfig.website],
-      career: [companyConfig.careerUrl],
-      lastScraped: new Date().toISOString().split('T')[0]
+      brand: companyConfig.brand || undefined,
+      status: status === 'active' ? 'activ' : (status || "activ"),
+      location: address ? [address] : companyConfig.location,
+      website: companyConfig.website,
+      career: companyConfig.career,
+      lastScraped: new Date().toISOString().split('T')[0],
+      scraperFile: companyConfig.scraperFile
     };
     const markdown = generateJobsMarkdown(companyData, transformedPayload.jobs);
     fs.mkdirSync("docs", { recursive: true });
     fs.writeFileSync("docs/jobs.md", markdown, "utf-8");
     console.log("Saved docs/jobs.md");
 
-    fs.writeFileSync("docs/company.json", JSON.stringify(companyConfig, null, 2), "utf-8");
-    console.log("Saved docs/company.json");
+    fs.copyFileSync("scraper/config/company.json", "docs/company.json");
+    console.log("Copied scraper/config/company.json → docs/company.json");
 
-    console.log("\n=== Step 6: Upsert jobs to SOLR ===");
+    console.log("\n=== Step 4: Upsert jobs to SOLR ===");
     await upsertJobs(transformedPayload.jobs);
 
+    const scrapedUrls = new Set(transformedPayload.jobs.map(job => job.url));
+    const staleUrls = [...existingUrls].filter(url => !scrapedUrls.has(url));
+
+    if (staleUrls.length > 0) {
+      console.log(`\n=== Step 4.5: Delete ${staleUrls.length} stale job(s) ===`);
+      let deletedCount = 0;
+      for (const url of staleUrls) {
+        try {
+          console.log(`  Deleting: ${url}`);
+          await deleteJobByUrl(url);
+          deletedCount++;
+        } catch (delErr) {
+          console.warn(`  ⚠️ Failed to delete: ${url} — ${delErr.message}`);
+        }
+      }
+      console.log(`✅ Deleted ${deletedCount}/${staleUrls.length} stale job(s)`);
+    } else {
+      console.log("\n✅ No stale jobs to delete");
+    }
+
+    console.log("\n=== Step 5: Summary ===");
+
+    await new Promise(r => setTimeout(r, 2000));
     const finalResult = await querySOLR(COMPANY_CIF);
-    console.log(`\n📊 === SUMMARY ===`);
-    console.log(`📊 Jobs existing in SOLR before scrape: ${existingCount}`);
-    console.log(`📊 Jobs scraped from METRO website: ${scrapedCount}`);
-    console.log(`📊 Jobs in SOLR after scrape: ${finalResult.numFound}`);
+    console.log(`\n=== SUMMARY ===`);
+    console.log(`Jobs existing in SOLR before scrape: ${existingCount}`);
+    console.log(`Jobs scraped from METRO website: ${scrapedCount}`);
+    console.log(`Stale jobs attempted: ${staleUrls.length}`);
+    console.log(`Jobs in SOLR after scrape: ${finalResult.numFound}`);
     console.log(`====================`);
 
     console.log("\n=== DONE ===");

@@ -4,7 +4,7 @@ describe('index.js Component Tests', () => {
   let index;
 
   beforeAll(async () => {
-    index = await import('../../index.js');
+    index = await import('../../scraper/index.js');
   });
 
   describe('transformJobsForSOLR', () => {
@@ -99,7 +99,7 @@ describe('index.js Component Tests', () => {
         title: 'Job 1'
       };
 
-      const result = index.mapToJobModel(rawJob, '33159615');
+      const result = index.mapToJobModel(rawJob, '8119423');
 
       expect(result.location).toBeUndefined();
       expect(result.tags).toBeUndefined();
@@ -109,7 +109,7 @@ describe('index.js Component Tests', () => {
     it('should handle missing title', () => {
       const rawJob = { url: 'https://test.com/1' };
 
-      const result = index.mapToJobModel(rawJob, '33159615');
+      const result = index.mapToJobModel(rawJob, '8119423');
 
       expect(result.title).toBeUndefined();
       expect(result.url).toBe('https://test.com/1');

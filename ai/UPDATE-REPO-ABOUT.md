@@ -1,7 +1,7 @@
 # Update Repo About
 
 ## Description
-Scraper automat pentru locurile de muncă METRO Systems International SRL (CIF: 33159615) — extrage din METRO Careers API, validează via ANAF și publică pe peviitor.ro
+Scraper automat pentru locurile de muncă METRO CASH & CARRY ROMANIA SRL (CIF: 8119423) — extrage din cariere.metro.ro, validează via ANAF și publică pe peviitor.ro
 
 ## Topics (exactly 2, per TOPICS.md)
 - job-seeker-ro-spider
