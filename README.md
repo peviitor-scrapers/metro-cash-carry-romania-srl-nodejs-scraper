@@ -11,9 +11,9 @@
 
 # job_seeker_ro_spider — METRO Careers Romania Scraper
 
-**job_seeker_ro_spider** — un scraper pentru job-urile METRO Cash & Carry România. Extrage anunțurile de pe [cariere.metro.ro](https://cariere.metro.ro/jobs) și le publică în [peviitor.ro](https://peviitor.ro) prin API-ul Peviitor.
+**job_seeker_ro_spider** — un scraper pentru job-urile METRO Cash & Carry România. Extrage anunțurile de pe [METRO Careers Romania](https://cariere.metro.ro/jobs) și le publică în [peviitor.ro](https://peviitor.ro) prin API-ul Peviitor.
 
-> **🌱 This Repo Is a Derived Scraper** — creat din template-ul [epam-systems-international-srl-nodejs-scraper](https://github.com/sebiboga/epam-systems-international-srl-nodejs-scraper). Pentru a crea un scraper similar pentru o altă companie românească, vezi AI Factory: [AI-Factory-job-seeker-ro-spider](https://github.com/sebiboga/AI-Factory-job-seeker-ro-spider).
+> **🌱 Derived scraper.** Acest repo este **derivat** din [epam-systems-international-srl-nodejs-scraper](https://github.com/sebiboga/epam-systems-international-srl-nodejs-scraper), implementarea de referință pentru toate scraper-ele Node.js din ecosistemul peviitor.ro.
 
 ## Overview
 
@@ -21,7 +21,8 @@ Proiectul automatizează colectarea zilnică a job-urilor METRO Cash & Carry Rom
 
 ## Features
 
-- Extrage job-uri de pe [cariere.metro.ro](https://cariere.metro.ro/jobs) (HTML scraping cu cheerio, selectoare `.attrax-vacancy-tile`) + ANOFM
+- Extrage job-uri din [cariere.metro.ro](https://cariere.metro.ro/jobs) (HTML scraping cu cheerio, selectoare `.attrax-vacancy-tile`)
+- Job-uri ANOFM suplimentare prin CIF
 - Validează compania via ANAF (CUI, status activ/inactiv, adresă completă)
 - **Cache ANAF la 7 zile** — committed în repo, nu lovește demoANAF la fiecare scrape
 - **Fallback la cache stale** dacă ANAF e indisponibil
@@ -33,36 +34,7 @@ Proiectul automatizează colectarea zilnică a job-urilor METRO Cash & Carry Rom
 - GitHub Actions: scrape zilnic + testare automată (unit, integration, e2e, consistency)
 - Se identifică prin User-Agent: `job_seeker_ro_spider`
 
-## Scraping method
-
-| Detaliu | Valoare |
-|---|---|
-| **Metodă** | HTML/cheerio |
-| **URL sursă** | `https://cariere.metro.ro/jobs` |
-| **Selector job-uri** | `.attrax-vacancy-tile` |
-| **Selector titlu** | `.attrax-vacancy-tile__title` |
-| **Selector locație** | `.attrax-vacancy-tile__location-freetext .attrax-vacancy-tile__item-value` |
-| **ANOFM** | Inclus (query by CIF 8119423) |
-
-## Cum funcționează
-
-Job-urile sunt extrase din pagina de cariere METRO România, care folosește platforma **SmartRecruiters Attrax**. Pagina listează toate pozițiile deschise cu titlu, locație și departament.
-
-## Job-uri extrase
-
-Vezi [docs/jobs.md](docs/jobs.md) pentru ultimele job-uri extrase sau [GitHub Pages](https://sebiboga.github.io/metro-cash-carry-romania-srl-nodejs-scraper/).
-
-## Întreținere
-
-Acest scraper este întreținut de [AI Factory](https://github.com/sebiboga/AI-Factory-job-seeker-ro-spider).
-
-Dacă structura paginii se schimbă, actualizează selectoarele din `scraper/index.js` → `parseJobsHTML()`.
-
-## Contribuții
-
-Vezi [CONTRIBUTING.md](CONTRIBUTING.md).
-
-## Licență
+## License
 
 Copyright (c) 2024-2026 BOGA SEBASTIAN-NICOLAE
 
