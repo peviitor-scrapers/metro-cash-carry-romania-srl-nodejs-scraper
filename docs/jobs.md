@@ -7,14 +7,49 @@
 | CIF | 8119423 |
 | Brand | METRO |
 | Status | activ |
-| Location | B-dul THEODOR PALLADY, 51 N, Bucureşti Sectorul 3, Bucureşti |
+| Location | MUNICIPIUL BUCUREŞTI, SECTOR 3, B-DUL THEODOR PALLADY, NR.51 N, CLĂDIREA C6. CORP A |
 | Website | [https://www.metro.ro](https://www.metro.ro) |
 | Careers | [https://cariere.metro.ro/jobs](https://cariere.metro.ro/jobs) |
-| Last Scraped | 2026-07-26 |
+| Last Scraped | 2026-08-05 |
 
-## Current Job Listings (16)
+## Current Job Listings (19)
 
-_Generated: 2026-07-26T08:17:25.294Z_
+_Generated: 2026-08-05T05:44:03.495Z_
+
+### People & Culture Responsible (fixed-term contract)
+
+- **URL:** [https://cariere.metro.ro/job/people-and-culture-responsible-fixed-term-contract-in-bulevardul-theodor-pallady-bucuresti-jid-33679](https://cariere.metro.ro/job/people-and-culture-responsible-fixed-term-contract-in-bulevardul-theodor-pallady-bucuresti-jid-33679)
+- **Location:** România
+- **Tags:** human resources
+- **Status:** scraped
+
+### Agent Vanzari Horeca Botosani
+
+- **URL:** [https://cariere.metro.ro/job/agent-vanzari-horeca-botosani-in-bulevardul-1-decembrie-1918-suceava-jid-33678](https://cariere.metro.ro/job/agent-vanzari-horeca-botosani-in-bulevardul-1-decembrie-1918-suceava-jid-33678)
+- **Location:** România
+- **Tags:** sales force
+- **Status:** scraped
+
+### Lucrator comercial/Picker (perioada determinata)
+
+- **URL:** [https://cariere.metro.ro/job/lucrator-comercial-picker-perioada-determinata-in-strada-gheorghe-doja-targu-mures-jid-33669](https://cariere.metro.ro/job/lucrator-comercial-picker-perioada-determinata-in-strada-gheorghe-doja-targu-mures-jid-33669)
+- **Location:** România
+- **Tags:** sales operations
+- **Status:** scraped
+
+### Lucrator comercial\_Raion Bauturi\_Magazin Metro Sibiu
+
+- **URL:** [https://cariere.metro.ro/job/lucrator-comercial-raion-bauturi-magazin-metro-sibiu-in-soseaua-alba-iulia-79a-sibiu-jid-33640](https://cariere.metro.ro/job/lucrator-comercial-raion-bauturi-magazin-metro-sibiu-in-soseaua-alba-iulia-79a-sibiu-jid-33640)
+- **Location:** România
+- **Tags:** store
+- **Status:** scraped
+
+### Agent Vanzari HoReCa\_perioada determinata
+
+- **URL:** [https://cariere.metro.ro/job/agent-vanzari-horeca-perioada-determinata-in-soseaua-alba-iulia-79a-sibiu-jid-33542](https://cariere.metro.ro/job/agent-vanzari-horeca-perioada-determinata-in-soseaua-alba-iulia-79a-sibiu-jid-33542)
+- **Location:** România
+- **Tags:** sales force
+- **Status:** scraped
 
 ### Coordonator Regional Intretinere
 
@@ -37,7 +72,7 @@ _Generated: 2026-07-26T08:17:25.294Z_
 - **Tags:** business development expansion
 - **Status:** scraped
 
-### Picker (pregătire comenzi)_METRO Constanta 1
+### Picker (pregătire comenzi)\_METRO Constanta 1
 
 - **URL:** [https://cariere.metro.ro/job/picker-pregatire-comenzi-metro-constanta-1-in-bulevardul-aurel-vlaicu-constanta-jid-15143](https://cariere.metro.ro/job/picker-pregatire-comenzi-metro-constanta-1-in-bulevardul-aurel-vlaicu-constanta-jid-15143)
 - **Location:** România
@@ -51,53 +86,42 @@ _Generated: 2026-07-26T08:17:25.294Z_
 - **Tags:** financiar
 - **Status:** scraped
 
-### LUCRATOR COMERCIAL_RAION PESTE_METRO SIBIU
+### LUCRATOR COMERCIAL\_RAION PESTE\_METRO SIBIU
 
 - **URL:** [https://cariere.metro.ro/job/lucrator-comercial-raion-peste-metro-sibiu-in-soseaua-alba-iulia-79a-sibiu-jid-32765](https://cariere.metro.ro/job/lucrator-comercial-raion-peste-metro-sibiu-in-soseaua-alba-iulia-79a-sibiu-jid-32765)
 - **Location:** România
 - **Tags:** store
 - **Status:** scraped
 
-### Lucrator Comercial Departament Carne_Metro Timisoara 1
+### Lucrator Comercial Departament Carne\_Metro Timisoara 1
 
 - **URL:** [https://cariere.metro.ro/job/lucrator-comercial-departament-carne-metro-timisoara-1-in-calea-sagului-timisoara-jid-26269](https://cariere.metro.ro/job/lucrator-comercial-departament-carne-metro-timisoara-1-in-calea-sagului-timisoara-jid-26269)
 - **Location:** România
 - **Tags:** store
 - **Status:** scraped
 
-### Picker METRO Timisoara 1
+### LUCRATOR COMERCIAL
 
-- **URL:** [https://cariere.metro.ro/job/picker-metro-timisoara-1-in-calea-sagului-timisoara-jid-24829](https://cariere.metro.ro/job/picker-metro-timisoara-1-in-calea-sagului-timisoara-jid-24829)
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3338950](https://mediere.anofm.ro/app/module/mediere/job/3338950)
 - **Location:** România
-- **Tags:** comercial
 - **Status:** scraped
 
-### Agent Vanzari Trader
+### LUCRATOR COMERCIAL
 
-- **URL:** [https://cariere.metro.ro/job/agent-vanzari-trader-in-strada-traian-galati-jid-31688](https://cariere.metro.ro/job/agent-vanzari-trader-in-strada-traian-galati-jid-31688)
-- **Location:** România
-- **Tags:** sales force
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3338940](https://mediere.anofm.ro/app/module/mediere/job/3338940)
+- **Location:** SUCEAVA
 - **Status:** scraped
 
-### Lucrator comercial/ Casier - METRO Deva
+### REPREZENTANT COMERCIAL
 
-- **URL:** [https://cariere.metro.ro/job/lucrator-comercial-casier-metro-deva-in-calea-zarandului-deva-jid-31216](https://cariere.metro.ro/job/lucrator-comercial-casier-metro-deva-in-calea-zarandului-deva-jid-31216)
-- **Location:** România
-- **Tags:** store
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3338933](https://mediere.anofm.ro/app/module/mediere/job/3338933)
+- **Location:** SUCEAVA
 - **Status:** scraped
 
-### Lucrator Comercial Fructe si Legume_Metro Constanta 1
+### REFERENT
 
-- **URL:** [https://cariere.metro.ro/job/lucrator-comercial-fructe-si-legume-metro-constanta-1-in-bd-aurel-vlaicu-constanta-jid-31050](https://cariere.metro.ro/job/lucrator-comercial-fructe-si-legume-metro-constanta-1-in-bd-aurel-vlaicu-constanta-jid-31050)
-- **Location:** România
-- **Tags:** store
-- **Status:** scraped
-
-### Lucrator comercial_Magazin Metro Timisoara 1
-
-- **URL:** [https://cariere.metro.ro/job/lucrator-comercial-magazin-metro-timisoara-1-in-calea-sagului-timisoara-jid-30818](https://cariere.metro.ro/job/lucrator-comercial-magazin-metro-timisoara-1-in-calea-sagului-timisoara-jid-30818)
-- **Location:** România
-- **Tags:** store
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3338926](https://mediere.anofm.ro/app/module/mediere/job/3338926)
+- **Location:** TARGU MURES
 - **Status:** scraped
 
 ### LUCRATOR COMERCIAL
@@ -116,10 +140,4 @@ _Generated: 2026-07-26T08:17:25.294Z_
 
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3326513](https://mediere.anofm.ro/app/module/mediere/job/3326513)
 - **Location:** ORADEA
-- **Status:** scraped
-
-### REFERENT
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3316661](https://mediere.anofm.ro/app/module/mediere/job/3316661)
-- **Location:** TARGU MURES
 - **Status:** scraped
