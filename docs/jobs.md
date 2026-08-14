@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 3, B-DUL THEODOR PALLADY, NR.51 N, CLĂDIREA C6. CORP A |
 | Website | [https://www.metro.ro](https://www.metro.ro) |
 | Careers | [https://cariere.metro.ro/jobs](https://cariere.metro.ro/jobs) |
-| Last Scraped | 2026-08-13 |
+| Last Scraped | 2026-08-14 |
 
-## Current Job Listings (19)
+## Current Job Listings (12)
 
-_Generated: 2026-08-13T07:18:18.642Z_
+_Generated: 2026-08-14T07:18:19.352Z_
 
 ### People & Culture Responsible (fixed-term contract)
 
@@ -98,46 +98,4 @@ _Generated: 2026-08-13T07:18:18.642Z_
 - **URL:** [https://cariere.metro.ro/job/lucrator-comercial-departament-carne-metro-timisoara-1-in-calea-sagului-timisoara-jid-26269](https://cariere.metro.ro/job/lucrator-comercial-departament-carne-metro-timisoara-1-in-calea-sagului-timisoara-jid-26269)
 - **Location:** România
 - **Tags:** store
-- **Status:** scraped
-
-### LUCRATOR COMERCIAL
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3338950](https://mediere.anofm.ro/app/module/mediere/job/3338950)
-- **Location:** România
-- **Status:** scraped
-
-### LUCRATOR COMERCIAL
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3338940](https://mediere.anofm.ro/app/module/mediere/job/3338940)
-- **Location:** SUCEAVA
-- **Status:** scraped
-
-### REPREZENTANT COMERCIAL
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3338933](https://mediere.anofm.ro/app/module/mediere/job/3338933)
-- **Location:** SUCEAVA
-- **Status:** scraped
-
-### REFERENT
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3338926](https://mediere.anofm.ro/app/module/mediere/job/3338926)
-- **Location:** TARGU MURES
-- **Status:** scraped
-
-### LUCRATOR COMERCIAL
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3334424](https://mediere.anofm.ro/app/module/mediere/job/3334424)
-- **Location:** România
-- **Status:** scraped
-
-### LUCRATOR COMERCIAL
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3326517](https://mediere.anofm.ro/app/module/mediere/job/3326517)
-- **Location:** CLUJ-NAPOCA
-- **Status:** scraped
-
-### LUCRATOR COMERCIAL
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3326513](https://mediere.anofm.ro/app/module/mediere/job/3326513)
-- **Location:** ORADEA
 - **Status:** scraped
