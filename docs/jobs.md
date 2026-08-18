@@ -7,14 +7,14 @@
 | CIF | 8119423 |
 | Brand | METRO |
 | Status | activ |
-| Location | MUNICIPIUL BUCUREŞTI, SECTOR 3, B-DUL THEODOR PALLADY, NR.51 N, CLĂDIREA C6. CORP A |
+| Location | București |
 | Website | [https://www.metro.ro](https://www.metro.ro) |
 | Careers | [https://cariere.metro.ro/jobs](https://cariere.metro.ro/jobs) |
-| Last Scraped | 2026-08-17 |
+| Last Scraped | 2026-08-18 |
 
 ## Current Job Listings (12)
 
-_Generated: 2026-08-17T06:42:01.842Z_
+_Generated: 2026-08-18T06:33:21.275Z_
 
 ### People & Culture Responsible (fixed-term contract)
 
