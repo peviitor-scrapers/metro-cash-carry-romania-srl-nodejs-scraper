@@ -10,11 +10,11 @@
 | Location | București |
 | Website | [https://www.metro.ro](https://www.metro.ro) |
 | Careers | [https://cariere.metro.ro/jobs](https://cariere.metro.ro/jobs) |
-| Last Scraped | 2026-08-19 |
+| Last Scraped | 2026-08-20 |
 
 ## Current Job Listings (12)
 
-_Generated: 2026-08-19T06:34:11.679Z_
+_Generated: 2026-08-20T06:36:45.670Z_
 
 ### People & Culture Responsible (fixed-term contract)
 
