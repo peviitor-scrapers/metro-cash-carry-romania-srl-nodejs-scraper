@@ -7,14 +7,28 @@
 | CIF | 8119423 |
 | Brand | METRO |
 | Status | activ |
-| Location | București |
+| Location | MUNICIPIUL BUCUREŞTI, SECTOR 3, B-DUL THEODOR PALLADY, NR.51 N, CLĂDIREA C6. CORP A |
 | Website | [https://www.metro.ro](https://www.metro.ro) |
 | Careers | [https://cariere.metro.ro/jobs](https://cariere.metro.ro/jobs) |
-| Last Scraped | 2026-08-20 |
+| Last Scraped | 2026-08-21 |
 
 ## Current Job Listings (12)
 
-_Generated: 2026-08-20T06:36:45.670Z_
+_Generated: 2026-08-21T06:36:27.488Z_
+
+### LUCRATOR COMERCIAL\_RAION PESTE\_METRO BACAU
+
+- **URL:** [https://cariere.metro.ro/job/lucrator-comercial-raion-peste-metro-bacau-in-dn-2-bacau-jid-34020](https://cariere.metro.ro/job/lucrator-comercial-raion-peste-metro-bacau-in-dn-2-bacau-jid-34020)
+- **Location:** România
+- **Tags:** store
+- **Status:** scraped
+
+### Lucrator comercial/Picker (perioada determinata)
+
+- **URL:** [https://cariere.metro.ro/job/lucrator-comercial-picker-perioada-determinata-in-dn-2-bacau-jid-34019](https://cariere.metro.ro/job/lucrator-comercial-picker-perioada-determinata-in-dn-2-bacau-jid-34019)
+- **Location:** România
+- **Tags:** store
+- **Status:** scraped
 
 ### People & Culture Responsible (fixed-term contract)
 
@@ -84,18 +98,4 @@ _Generated: 2026-08-20T06:36:45.670Z_
 - **URL:** [https://cariere.metro.ro/job/accountant-fixed-asset-maternity-cover-in-bulevardul-theodor-pallady-bucuresti-jid-32809](https://cariere.metro.ro/job/accountant-fixed-asset-maternity-cover-in-bulevardul-theodor-pallady-bucuresti-jid-32809)
 - **Location:** România
 - **Tags:** financiar
-- **Status:** scraped
-
-### LUCRATOR COMERCIAL\_RAION PESTE\_METRO SIBIU
-
-- **URL:** [https://cariere.metro.ro/job/lucrator-comercial-raion-peste-metro-sibiu-in-soseaua-alba-iulia-79a-sibiu-jid-32765](https://cariere.metro.ro/job/lucrator-comercial-raion-peste-metro-sibiu-in-soseaua-alba-iulia-79a-sibiu-jid-32765)
-- **Location:** România
-- **Tags:** store
-- **Status:** scraped
-
-### Lucrator Comercial Departament Carne\_Metro Timisoara 1
-
-- **URL:** [https://cariere.metro.ro/job/lucrator-comercial-departament-carne-metro-timisoara-1-in-calea-sagului-timisoara-jid-26269](https://cariere.metro.ro/job/lucrator-comercial-departament-carne-metro-timisoara-1-in-calea-sagului-timisoara-jid-26269)
-- **Location:** România
-- **Tags:** store
 - **Status:** scraped
