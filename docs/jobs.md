@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 3, B-DUL THEODOR PALLADY, NR.51 N, CLĂDIREA C6. CORP A |
 | Website | [https://www.metro.ro](https://www.metro.ro) |
 | Careers | [https://cariere.metro.ro/jobs](https://cariere.metro.ro/jobs) |
-| Last Scraped | 2026-08-21 |
+| Last Scraped | 2026-08-22 |
 
 ## Current Job Listings (12)
 
-_Generated: 2026-08-21T06:36:27.488Z_
+_Generated: 2026-08-22T06:29:44.304Z_
 
 ### LUCRATOR COMERCIAL\_RAION PESTE\_METRO BACAU
 
