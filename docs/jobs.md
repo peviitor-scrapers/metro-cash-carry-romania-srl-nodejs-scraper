@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 3, B-DUL THEODOR PALLADY, NR.51 N, CLĂDIREA C6. CORP A |
 | Website | [https://www.metro.ro](https://www.metro.ro) |
 | Careers | [https://cariere.metro.ro/jobs](https://cariere.metro.ro/jobs) |
-| Last Scraped | 2026-08-23 |
+| Last Scraped | 2026-08-24 |
 
 ## Current Job Listings (12)
 
-_Generated: 2026-08-23T06:31:17.076Z_
+_Generated: 2026-08-24T06:44:25.082Z_
 
 ### LUCRATOR COMERCIAL\_RAION PESTE\_METRO BACAU
 
@@ -79,13 +79,6 @@ _Generated: 2026-08-23T06:31:17.076Z_
 - **Tags:** marketing pr
 - **Status:** scraped
 
-### Head of Business Development
-
-- **URL:** [https://cariere.metro.ro/job/head-of-business-development-in-bulevardul-theodor-pallady-bucuresti-jid-33092](https://cariere.metro.ro/job/head-of-business-development-in-bulevardul-theodor-pallady-bucuresti-jid-33092)
-- **Location:** România
-- **Tags:** business development expansion
-- **Status:** scraped
-
 ### Picker (pregătire comenzi)\_METRO Constanta 1
 
 - **URL:** [https://cariere.metro.ro/job/picker-pregatire-comenzi-metro-constanta-1-in-bulevardul-aurel-vlaicu-constanta-jid-15143](https://cariere.metro.ro/job/picker-pregatire-comenzi-metro-constanta-1-in-bulevardul-aurel-vlaicu-constanta-jid-15143)
@@ -98,4 +91,11 @@ _Generated: 2026-08-23T06:31:17.076Z_
 - **URL:** [https://cariere.metro.ro/job/accountant-fixed-asset-maternity-cover-in-bulevardul-theodor-pallady-bucuresti-jid-32809](https://cariere.metro.ro/job/accountant-fixed-asset-maternity-cover-in-bulevardul-theodor-pallady-bucuresti-jid-32809)
 - **Location:** România
 - **Tags:** financiar
+- **Status:** scraped
+
+### LUCRATOR COMERCIAL\_RAION PESTE\_METRO SIBIU
+
+- **URL:** [https://cariere.metro.ro/job/lucrator-comercial-raion-peste-metro-sibiu-in-soseaua-alba-iulia-79a-sibiu-jid-32765](https://cariere.metro.ro/job/lucrator-comercial-raion-peste-metro-sibiu-in-soseaua-alba-iulia-79a-sibiu-jid-32765)
+- **Location:** România
+- **Tags:** store
 - **Status:** scraped
