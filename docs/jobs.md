@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 3, B-DUL THEODOR PALLADY, NR.51 N, CLĂDIREA C6. CORP A |
 | Website | [https://www.metro.ro](https://www.metro.ro) |
 | Careers | [https://cariere.metro.ro/jobs](https://cariere.metro.ro/jobs) |
-| Last Scraped | 2026-08-25 |
+| Last Scraped | 2026-08-26 |
 
 ## Current Job Listings (12)
 
-_Generated: 2026-08-25T06:36:47.460Z_
+_Generated: 2026-08-26T06:38:04.222Z_
 
 ### LUCRATOR COMERCIAL\_RAION PESTE\_METRO BACAU
 
@@ -28,13 +28,6 @@ _Generated: 2026-08-25T06:36:47.460Z_
 - **URL:** [https://cariere.metro.ro/job/lucrator-comercial-picker-perioada-determinata-in-dn-2-bacau-jid-34019](https://cariere.metro.ro/job/lucrator-comercial-picker-perioada-determinata-in-dn-2-bacau-jid-34019)
 - **Location:** România
 - **Tags:** store
-- **Status:** scraped
-
-### People & Culture Responsible (fixed-term contract)
-
-- **URL:** [https://cariere.metro.ro/job/people-and-culture-responsible-fixed-term-contract-in-bulevardul-theodor-pallady-bucuresti-jid-33679](https://cariere.metro.ro/job/people-and-culture-responsible-fixed-term-contract-in-bulevardul-theodor-pallady-bucuresti-jid-33679)
-- **Location:** România
-- **Tags:** human resources
 - **Status:** scraped
 
 ### Agent Vanzari Horeca Botosani
@@ -96,6 +89,13 @@ _Generated: 2026-08-25T06:36:47.460Z_
 ### LUCRATOR COMERCIAL\_RAION PESTE\_METRO SIBIU
 
 - **URL:** [https://cariere.metro.ro/job/lucrator-comercial-raion-peste-metro-sibiu-in-soseaua-alba-iulia-79a-sibiu-jid-32765](https://cariere.metro.ro/job/lucrator-comercial-raion-peste-metro-sibiu-in-soseaua-alba-iulia-79a-sibiu-jid-32765)
+- **Location:** România
+- **Tags:** store
+- **Status:** scraped
+
+### Lucrator Comercial Departament Carne\_Metro Timisoara 1
+
+- **URL:** [https://cariere.metro.ro/job/lucrator-comercial-departament-carne-metro-timisoara-1-in-calea-sagului-timisoara-jid-26269](https://cariere.metro.ro/job/lucrator-comercial-departament-carne-metro-timisoara-1-in-calea-sagului-timisoara-jid-26269)
 - **Location:** România
 - **Tags:** store
 - **Status:** scraped
