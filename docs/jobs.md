@@ -10,11 +10,39 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 3, B-DUL THEODOR PALLADY, NR.51 N, CLĂDIREA C6. CORP A |
 | Website | [https://www.metro.ro](https://www.metro.ro) |
 | Careers | [https://cariere.metro.ro/jobs](https://cariere.metro.ro/jobs) |
-| Last Scraped | 2026-09-01 |
+| Last Scraped | 2026-09-02 |
 
 ## Current Job Listings (12)
 
-_Generated: 2026-09-01T10:57:27.821Z_
+_Generated: 2026-09-02T10:25:51.981Z_
+
+### Coordonator Platformă Produse Alimentare Proaspete
+
+- **URL:** [https://cariere.metro.ro/job/coordonator-platforma-produse-alimentare-proaspete-in-soseaua-stefanesti-stefanestii-de-jos-jid-34220](https://cariere.metro.ro/job/coordonator-platforma-produse-alimentare-proaspete-in-soseaua-stefanesti-stefanestii-de-jos-jid-34220)
+- **Location:** România
+- **Tags:** logistics supply chain
+- **Status:** scraped
+
+### Preparator Produse Alimentare Proaspete
+
+- **URL:** [https://cariere.metro.ro/job/preparator-produse-alimentare-proaspete-in-soseaua-stefanesti-stefanestii-de-jos-jid-34219](https://cariere.metro.ro/job/preparator-produse-alimentare-proaspete-in-soseaua-stefanesti-stefanestii-de-jos-jid-34219)
+- **Location:** România
+- **Tags:** quality assurance
+- **Status:** scraped
+
+### Verificator
+
+- **URL:** [https://cariere.metro.ro/job/verificator-in-soseaua-stefanesti-stefanestii-de-jos-jid-34217](https://cariere.metro.ro/job/verificator-in-soseaua-stefanesti-stefanestii-de-jos-jid-34217)
+- **Location:** România
+- **Tags:** logistics supply chain
+- **Status:** scraped
+
+### Lucrator Comercial
+
+- **URL:** [https://cariere.metro.ro/job/lucrator-comercial-in-calea-zimandului-nr-43c-arad-jid-34216](https://cariere.metro.ro/job/lucrator-comercial-in-calea-zimandului-nr-43c-arad-jid-34216)
+- **Location:** România
+- **Tags:** store
+- **Status:** scraped
 
 ### LUCRATOR COMERCIAL\_RAION PESTE\_METRO BACAU
 
@@ -70,32 +98,4 @@ _Generated: 2026-09-01T10:57:27.821Z_
 - **URL:** [https://cariere.metro.ro/job/marketing-manager-in-bulevardul-theodor-pallady-bucuresti-jid-33097](https://cariere.metro.ro/job/marketing-manager-in-bulevardul-theodor-pallady-bucuresti-jid-33097)
 - **Location:** România
 - **Tags:** marketing pr
-- **Status:** scraped
-
-### Picker (pregătire comenzi)\_METRO Constanta 1
-
-- **URL:** [https://cariere.metro.ro/job/picker-pregatire-comenzi-metro-constanta-1-in-bulevardul-aurel-vlaicu-constanta-jid-15143](https://cariere.metro.ro/job/picker-pregatire-comenzi-metro-constanta-1-in-bulevardul-aurel-vlaicu-constanta-jid-15143)
-- **Location:** România
-- **Tags:** logistics delivery
-- **Status:** scraped
-
-### Accountant (Fixed Asset) | Maternity Cover
-
-- **URL:** [https://cariere.metro.ro/job/accountant-fixed-asset-maternity-cover-in-bulevardul-theodor-pallady-bucuresti-jid-32809](https://cariere.metro.ro/job/accountant-fixed-asset-maternity-cover-in-bulevardul-theodor-pallady-bucuresti-jid-32809)
-- **Location:** România
-- **Tags:** financiar
-- **Status:** scraped
-
-### LUCRATOR COMERCIAL\_RAION PESTE\_METRO SIBIU
-
-- **URL:** [https://cariere.metro.ro/job/lucrator-comercial-raion-peste-metro-sibiu-in-soseaua-alba-iulia-79a-sibiu-jid-32765](https://cariere.metro.ro/job/lucrator-comercial-raion-peste-metro-sibiu-in-soseaua-alba-iulia-79a-sibiu-jid-32765)
-- **Location:** România
-- **Tags:** store
-- **Status:** scraped
-
-### Lucrator Comercial Departament Carne\_Metro Timisoara 1
-
-- **URL:** [https://cariere.metro.ro/job/lucrator-comercial-departament-carne-metro-timisoara-1-in-calea-sagului-timisoara-jid-26269](https://cariere.metro.ro/job/lucrator-comercial-departament-carne-metro-timisoara-1-in-calea-sagului-timisoara-jid-26269)
-- **Location:** România
-- **Tags:** store
 - **Status:** scraped
