@@ -10,11 +10,18 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 3, B-DUL THEODOR PALLADY, NR.51 N, CLĂDIREA C6. CORP A |
 | Website | [https://www.metro.ro](https://www.metro.ro) |
 | Careers | [https://cariere.metro.ro/jobs](https://cariere.metro.ro/jobs) |
-| Last Scraped | 2026-09-02 |
+| Last Scraped | 2026-09-03 |
 
 ## Current Job Listings (12)
 
-_Generated: 2026-09-02T10:25:51.981Z_
+_Generated: 2026-09-03T10:33:19.488Z_
+
+### Treasury Economist
+
+- **URL:** [https://cariere.metro.ro/job/treasury-economist-in-bulevardul-theodor-pallady-bucuresti-jid-34259](https://cariere.metro.ro/job/treasury-economist-in-bulevardul-theodor-pallady-bucuresti-jid-34259)
+- **Location:** România
+- **Tags:** financiar
+- **Status:** scraped
 
 ### Coordonator Platformă Produse Alimentare Proaspete
 
@@ -91,11 +98,4 @@ _Generated: 2026-09-02T10:25:51.981Z_
 - **URL:** [https://cariere.metro.ro/job/coordonator-regional-intretinere-in-calea-sagului-timisoara-jid-33148](https://cariere.metro.ro/job/coordonator-regional-intretinere-in-calea-sagului-timisoara-jid-33148)
 - **Location:** România
 - **Tags:** store
-- **Status:** scraped
-
-### Marketing Manager
-
-- **URL:** [https://cariere.metro.ro/job/marketing-manager-in-bulevardul-theodor-pallady-bucuresti-jid-33097](https://cariere.metro.ro/job/marketing-manager-in-bulevardul-theodor-pallady-bucuresti-jid-33097)
-- **Location:** România
-- **Tags:** marketing pr
 - **Status:** scraped
