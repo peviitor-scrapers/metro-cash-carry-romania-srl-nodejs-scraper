@@ -10,11 +10,18 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 3, B-DUL THEODOR PALLADY, NR.51 N, CLĂDIREA C6. CORP A |
 | Website | [https://www.metro.ro](https://www.metro.ro) |
 | Careers | [https://cariere.metro.ro/jobs](https://cariere.metro.ro/jobs) |
-| Last Scraped | 2026-09-03 |
+| Last Scraped | 2026-09-04 |
 
 ## Current Job Listings (12)
 
-_Generated: 2026-09-03T10:33:19.488Z_
+_Generated: 2026-09-04T10:24:13.412Z_
+
+### Lucrător Comercial
+
+- **URL:** [https://cariere.metro.ro/job/lucrator-comercial-in-calea-bucuresti-craiova-jid-34278](https://cariere.metro.ro/job/lucrator-comercial-in-calea-bucuresti-craiova-jid-34278)
+- **Location:** România
+- **Tags:** store
+- **Status:** scraped
 
 ### Treasury Economist
 
@@ -91,11 +98,4 @@ _Generated: 2026-09-03T10:33:19.488Z_
 - **URL:** [https://cariere.metro.ro/job/agent-vanzari-horeca-perioada-determinata-in-soseaua-alba-iulia-79a-sibiu-jid-33542](https://cariere.metro.ro/job/agent-vanzari-horeca-perioada-determinata-in-soseaua-alba-iulia-79a-sibiu-jid-33542)
 - **Location:** România
 - **Tags:** sales force
-- **Status:** scraped
-
-### Coordonator Regional Intretinere
-
-- **URL:** [https://cariere.metro.ro/job/coordonator-regional-intretinere-in-calea-sagului-timisoara-jid-33148](https://cariere.metro.ro/job/coordonator-regional-intretinere-in-calea-sagului-timisoara-jid-33148)
-- **Location:** România
-- **Tags:** store
 - **Status:** scraped
