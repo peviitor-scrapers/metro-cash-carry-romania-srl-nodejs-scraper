@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 3, B-DUL THEODOR PALLADY, NR.51 N, CLĂDIREA C6. CORP A |
 | Website | [https://www.metro.ro](https://www.metro.ro) |
 | Careers | [https://cariere.metro.ro/jobs](https://cariere.metro.ro/jobs) |
-| Last Scraped | 2026-09-14 |
+| Last Scraped | 2026-09-15 |
 
-## Current Job Listings (12)
+## Current Job Listings (13)
 
-_Generated: 2026-09-14T11:31:56.340Z_
+_Generated: 2026-09-15T10:52:38.162Z_
 
 ### Lucrător Comercial
 
@@ -98,4 +98,10 @@ _Generated: 2026-09-14T11:31:56.340Z_
 - **URL:** [https://cariere.metro.ro/job/agent-vanzari-horeca-perioada-determinata-in-soseaua-alba-iulia-79a-sibiu-jid-33542](https://cariere.metro.ro/job/agent-vanzari-horeca-perioada-determinata-in-soseaua-alba-iulia-79a-sibiu-jid-33542)
 - **Location:** România
 - **Tags:** sales force
+- **Status:** scraped
+
+### REFERENT
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3387425](https://mediere.anofm.ro/app/module/mediere/job/3387425)
+- **Location:** TARGU MURES
 - **Status:** scraped
