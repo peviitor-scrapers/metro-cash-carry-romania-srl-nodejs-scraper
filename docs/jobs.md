@@ -10,11 +10,18 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 3, B-DUL THEODOR PALLADY, NR.51 N, CLĂDIREA C6. CORP A |
 | Website | [https://www.metro.ro](https://www.metro.ro) |
 | Careers | [https://cariere.metro.ro/jobs](https://cariere.metro.ro/jobs) |
-| Last Scraped | 2026-09-20 |
+| Last Scraped | 2026-09-21 |
 
 ## Current Job Listings (14)
 
-_Generated: 2026-09-20T10:28:03.654Z_
+_Generated: 2026-09-21T11:45:44.347Z_
+
+### Branding & Communication Specialist
+
+- **URL:** [https://cariere.metro.ro/job/branding-and-communication-specialist-in-bulevardul-theodor-pallady-bucuresti-jid-34577](https://cariere.metro.ro/job/branding-and-communication-specialist-in-bulevardul-theodor-pallady-bucuresti-jid-34577)
+- **Location:** România
+- **Tags:** marketing pr
+- **Status:** scraped
 
 ### Lucrător Comercial
 
@@ -91,13 +98,6 @@ _Generated: 2026-09-20T10:28:03.654Z_
 - **URL:** [https://cariere.metro.ro/job/lucrator-comercial-raion-bauturi-magazin-metro-sibiu-in-soseaua-alba-iulia-79a-sibiu-jid-33640](https://cariere.metro.ro/job/lucrator-comercial-raion-bauturi-magazin-metro-sibiu-in-soseaua-alba-iulia-79a-sibiu-jid-33640)
 - **Location:** România
 - **Tags:** store
-- **Status:** scraped
-
-### Agent Vanzari HoReCa\_perioada determinata
-
-- **URL:** [https://cariere.metro.ro/job/agent-vanzari-horeca-perioada-determinata-in-soseaua-alba-iulia-79a-sibiu-jid-33542](https://cariere.metro.ro/job/agent-vanzari-horeca-perioada-determinata-in-soseaua-alba-iulia-79a-sibiu-jid-33542)
-- **Location:** România
-- **Tags:** sales force
 - **Status:** scraped
 
 ### REFERENT
