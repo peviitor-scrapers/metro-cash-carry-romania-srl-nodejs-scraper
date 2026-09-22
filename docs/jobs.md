@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 3, B-DUL THEODOR PALLADY, NR.51 N, CLĂDIREA C6. CORP A |
 | Website | [https://www.metro.ro](https://www.metro.ro) |
 | Careers | [https://cariere.metro.ro/jobs](https://cariere.metro.ro/jobs) |
-| Last Scraped | 2026-09-21 |
+| Last Scraped | 2026-09-22 |
 
-## Current Job Listings (14)
+## Current Job Listings (15)
 
-_Generated: 2026-09-21T11:45:44.347Z_
+_Generated: 2026-09-22T10:48:23.530Z_
 
 ### Branding & Communication Specialist
 
@@ -98,6 +98,12 @@ _Generated: 2026-09-21T11:45:44.347Z_
 - **URL:** [https://cariere.metro.ro/job/lucrator-comercial-raion-bauturi-magazin-metro-sibiu-in-soseaua-alba-iulia-79a-sibiu-jid-33640](https://cariere.metro.ro/job/lucrator-comercial-raion-bauturi-magazin-metro-sibiu-in-soseaua-alba-iulia-79a-sibiu-jid-33640)
 - **Location:** România
 - **Tags:** store
+- **Status:** scraped
+
+### LUCRATOR COMERCIAL
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3393967](https://mediere.anofm.ro/app/module/mediere/job/3393967)
+- **Location:** România
 - **Status:** scraped
 
 ### REFERENT
