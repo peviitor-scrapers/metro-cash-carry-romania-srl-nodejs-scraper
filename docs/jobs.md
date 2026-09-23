@@ -7,14 +7,14 @@
 | CIF | 8119423 |
 | Brand | METRO |
 | Status | activ |
-| Location | MUNICIPIUL BUCUREŞTI, SECTOR 3, B-DUL THEODOR PALLADY, NR.51 N, CLĂDIREA C6. CORP A |
+| Location | București |
 | Website | [https://www.metro.ro](https://www.metro.ro) |
 | Careers | [https://cariere.metro.ro/jobs](https://cariere.metro.ro/jobs) |
-| Last Scraped | 2026-09-22 |
+| Last Scraped | 2026-09-23 |
 
 ## Current Job Listings (15)
 
-_Generated: 2026-09-22T10:48:23.530Z_
+_Generated: 2026-09-23T10:37:52.278Z_
 
 ### Branding & Communication Specialist
 
