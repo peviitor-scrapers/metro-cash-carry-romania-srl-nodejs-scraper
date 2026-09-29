@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 3, B-DUL THEODOR PALLADY, NR.51 N, CLĂDIREA C6. CORP A |
 | Website | [https://www.metro.ro](https://www.metro.ro) |
 | Careers | [https://cariere.metro.ro/jobs](https://cariere.metro.ro/jobs) |
-| Last Scraped | 2026-09-28 |
+| Last Scraped | 2026-09-29 |
 
-## Current Job Listings (15)
+## Current Job Listings (14)
 
-_Generated: 2026-09-28T12:41:16.910Z_
+_Generated: 2026-09-29T11:58:50.676Z_
 
 ### Agent Vanzari Horeca - judetul Caras Severin
 
@@ -86,18 +86,18 @@ _Generated: 2026-09-28T12:41:16.910Z_
 - **Tags:** store
 - **Status:** scraped
 
-### Agent Vanzari Horeca Botosani
-
-- **URL:** [https://cariere.metro.ro/job/agent-vanzari-horeca-botosani-in-bulevardul-1-decembrie-1918-suceava-jid-33678](https://cariere.metro.ro/job/agent-vanzari-horeca-botosani-in-bulevardul-1-decembrie-1918-suceava-jid-33678)
-- **Location:** România
-- **Tags:** sales force
-- **Status:** scraped
-
 ### Lucrator comercial/Picker (perioada determinata)
 
 - **URL:** [https://cariere.metro.ro/job/lucrator-comercial-picker-perioada-determinata-in-strada-gheorghe-doja-targu-mures-jid-33669](https://cariere.metro.ro/job/lucrator-comercial-picker-perioada-determinata-in-strada-gheorghe-doja-targu-mures-jid-33669)
 - **Location:** România
 - **Tags:** sales operations
+- **Status:** scraped
+
+### Lucrator comercial\_Raion Bauturi\_Magazin Metro Sibiu
+
+- **URL:** [https://cariere.metro.ro/job/lucrator-comercial-raion-bauturi-magazin-metro-sibiu-in-soseaua-alba-iulia-79a-sibiu-jid-33640](https://cariere.metro.ro/job/lucrator-comercial-raion-bauturi-magazin-metro-sibiu-in-soseaua-alba-iulia-79a-sibiu-jid-33640)
+- **Location:** România
+- **Tags:** store
 - **Status:** scraped
 
 ### LUCRATOR COMERCIAL
@@ -110,10 +110,4 @@ _Generated: 2026-09-28T12:41:16.910Z_
 
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3391077](https://mediere.anofm.ro/app/module/mediere/job/3391077)
 - **Location:** ARAD
-- **Status:** scraped
-
-### REFERENT
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3387425](https://mediere.anofm.ro/app/module/mediere/job/3387425)
-- **Location:** TARGU MURES
 - **Status:** scraped
