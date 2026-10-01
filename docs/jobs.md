@@ -10,24 +10,24 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 3, B-DUL THEODOR PALLADY, NR.51 N, CLĂDIREA C6. CORP A |
 | Website | [https://www.metro.ro](https://www.metro.ro) |
 | Careers | [https://cariere.metro.ro/jobs](https://cariere.metro.ro/jobs) |
-| Last Scraped | 2026-09-30 |
+| Last Scraped | 2026-10-01 |
 
 ## Current Job Listings (14)
 
-_Generated: 2026-09-30T11:47:01.104Z_
-
-### Agent Vanzari Horeca - judetul Caras Severin
-
-- **URL:** [https://cariere.metro.ro/job/agent-vanzari-horeca-judetul-caras-severin-in-calea-torontalului-timisoara-jid-34632](https://cariere.metro.ro/job/agent-vanzari-horeca-judetul-caras-severin-in-calea-torontalului-timisoara-jid-34632)
-- **Location:** România
-- **Tags:** sales force
-- **Status:** scraped
+_Generated: 2026-10-01T12:16:10.269Z_
 
 ### Branding & Communication Specialist
 
 - **URL:** [https://cariere.metro.ro/job/branding-and-communication-specialist-in-bulevardul-theodor-pallady-bucuresti-jid-34577](https://cariere.metro.ro/job/branding-and-communication-specialist-in-bulevardul-theodor-pallady-bucuresti-jid-34577)
 - **Location:** România
 - **Tags:** marketing pr
+- **Status:** scraped
+
+### Agent Vanzari Horeca - judetul Caras Severin
+
+- **URL:** [https://cariere.metro.ro/job/agent-vanzari-horeca-judetul-caras-severin-in-calea-torontalului-timisoara-jid-34632](https://cariere.metro.ro/job/agent-vanzari-horeca-judetul-caras-severin-in-calea-torontalului-timisoara-jid-34632)
+- **Location:** România
+- **Tags:** sales force
 - **Status:** scraped
 
 ### Lucrător Comercial
