@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 3, B-DUL THEODOR PALLADY, NR.51 N, CLĂDIREA C6. CORP A |
 | Website | [https://www.metro.ro](https://www.metro.ro) |
 | Careers | [https://cariere.metro.ro/jobs](https://cariere.metro.ro/jobs) |
-| Last Scraped | 2026-10-02 |
+| Last Scraped | 2026-10-03 |
 
-## Current Job Listings (14)
+## Current Job Listings (13)
 
-_Generated: 2026-10-02T11:45:02.589Z_
+_Generated: 2026-10-03T10:58:20.490Z_
 
 ### Branding & Communication Specialist
 
@@ -98,12 +98,6 @@ _Generated: 2026-10-02T11:45:02.589Z_
 - **URL:** [https://cariere.metro.ro/job/agent-vanzari-horeca-perioada-determinata-in-soseaua-alba-iulia-79a-sibiu-jid-33542](https://cariere.metro.ro/job/agent-vanzari-horeca-perioada-determinata-in-soseaua-alba-iulia-79a-sibiu-jid-33542)
 - **Location:** România
 - **Tags:** sales force
-- **Status:** scraped
-
-### LUCRATOR COMERCIAL
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3393967](https://mediere.anofm.ro/app/module/mediere/job/3393967)
-- **Location:** România
 - **Status:** scraped
 
 ### REFERENT
