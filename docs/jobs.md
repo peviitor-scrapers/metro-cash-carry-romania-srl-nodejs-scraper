@@ -10,15 +10,15 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 3, B-DUL THEODOR PALLADY, NR.51 N, CLĂDIREA C6. CORP A |
 | Website | [https://www.metro.ro](https://www.metro.ro) |
 | Careers | [https://cariere.metro.ro/jobs](https://cariere.metro.ro/jobs) |
-| Last Scraped | 2026-10-08 |
+| Last Scraped | 2026-10-09 |
 
-## Current Job Listings (13)
+## Current Job Listings (12)
 
-_Generated: 2026-10-08T12:39:44.272Z_
+_Generated: 2026-10-09T12:26:53.511Z_
 
-### Branding & Communication Specialist
+### Junior Branding & Communication Specialist
 
-- **URL:** [https://cariere.metro.ro/job/branding-and-communication-specialist-in-bulevardul-theodor-pallady-bucuresti-jid-34577](https://cariere.metro.ro/job/branding-and-communication-specialist-in-bulevardul-theodor-pallady-bucuresti-jid-34577)
+- **URL:** [https://cariere.metro.ro/job/junior-branding-and-communication-specialist-in-bulevardul-theodor-pallady-bucuresti-jid-34577](https://cariere.metro.ro/job/junior-branding-and-communication-specialist-in-bulevardul-theodor-pallady-bucuresti-jid-34577)
 - **Location:** România
 - **Tags:** marketing pr
 - **Status:** scraped
@@ -98,10 +98,4 @@ _Generated: 2026-10-08T12:39:44.272Z_
 - **URL:** [https://cariere.metro.ro/job/marketing-manager-in-bulevardul-theodor-pallady-bucuresti-jid-33097](https://cariere.metro.ro/job/marketing-manager-in-bulevardul-theodor-pallady-bucuresti-jid-33097)
 - **Location:** România
 - **Tags:** marketing pr
-- **Status:** scraped
-
-### REFERENT
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3391077](https://mediere.anofm.ro/app/module/mediere/job/3391077)
-- **Location:** ARAD
 - **Status:** scraped
