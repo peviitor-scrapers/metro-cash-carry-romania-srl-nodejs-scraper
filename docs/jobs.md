@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 3, B-DUL THEODOR PALLADY, NR.51 N, CLĂDIREA C6. CORP A |
 | Website | [https://www.metro.ro](https://www.metro.ro) |
 | Careers | [https://cariere.metro.ro/jobs](https://cariere.metro.ro/jobs) |
-| Last Scraped | 2026-10-10 |
+| Last Scraped | 2026-10-11 |
 
 ## Current Job Listings (12)
 
-_Generated: 2026-10-10T11:45:57.324Z_
+_Generated: 2026-10-11T11:58:23.357Z_
 
 ### Junior Branding & Communication Specialist
 
