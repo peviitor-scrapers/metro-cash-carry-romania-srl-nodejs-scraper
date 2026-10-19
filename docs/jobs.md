@@ -10,11 +10,18 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 3, B-DUL THEODOR PALLADY, NR.51 N, CLĂDIREA C6. CORP A |
 | Website | [https://www.metro.ro](https://www.metro.ro) |
 | Careers | [https://cariere.metro.ro/jobs](https://cariere.metro.ro/jobs) |
-| Last Scraped | 2026-10-18 |
+| Last Scraped | 2026-10-19 |
 
 ## Current Job Listings (12)
 
-_Generated: 2026-10-18T10:14:17.593Z_
+_Generated: 2026-10-19T11:52:28.291Z_
+
+### Agent Vanzari Horeca
+
+- **URL:** [https://cariere.metro.ro/job/agent-vanzari-horeca-in-dn2-bacau-jid-35171](https://cariere.metro.ro/job/agent-vanzari-horeca-in-dn2-bacau-jid-35171)
+- **Location:** România
+- **Tags:** sales force
+- **Status:** scraped
 
 ### Junior Branding & Communication Specialist
 
@@ -91,11 +98,4 @@ _Generated: 2026-10-18T10:14:17.593Z_
 - **URL:** [https://cariere.metro.ro/job/agent-vanzari-horeca-perioada-determinata-in-soseaua-alba-iulia-79a-sibiu-jid-33542](https://cariere.metro.ro/job/agent-vanzari-horeca-perioada-determinata-in-soseaua-alba-iulia-79a-sibiu-jid-33542)
 - **Location:** România
 - **Tags:** sales force
-- **Status:** scraped
-
-### Marketing Manager
-
-- **URL:** [https://cariere.metro.ro/job/marketing-manager-in-bulevardul-theodor-pallady-bucuresti-jid-33097](https://cariere.metro.ro/job/marketing-manager-in-bulevardul-theodor-pallady-bucuresti-jid-33097)
-- **Location:** România
-- **Tags:** marketing pr
 - **Status:** scraped
