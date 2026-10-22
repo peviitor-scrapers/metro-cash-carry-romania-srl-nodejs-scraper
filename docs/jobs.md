@@ -10,11 +10,18 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 3, B-DUL THEODOR PALLADY, NR.51 N, CLĂDIREA C6. CORP A |
 | Website | [https://www.metro.ro](https://www.metro.ro) |
 | Careers | [https://cariere.metro.ro/jobs](https://cariere.metro.ro/jobs) |
-| Last Scraped | 2026-10-21 |
+| Last Scraped | 2026-10-22 |
 
 ## Current Job Listings (12)
 
-_Generated: 2026-10-21T11:01:29.806Z_
+_Generated: 2026-10-22T10:59:48.376Z_
+
+### Lucrator comercial-Picker\_Departament Executie Livrari\_Metro Sibiu
+
+- **URL:** [https://cariere.metro.ro/job/lucrator-comercial-picker-departament-executie-livrari-metro-sibiu-in-soseaua-alba-iulia-79a-sibiu-jid-35227](https://cariere.metro.ro/job/lucrator-comercial-picker-departament-executie-livrari-metro-sibiu-in-soseaua-alba-iulia-79a-sibiu-jid-35227)
+- **Location:** România
+- **Tags:** store
+- **Status:** scraped
 
 ### Agent Vanzari Horeca
 
@@ -91,11 +98,4 @@ _Generated: 2026-10-21T11:01:29.806Z_
 - **URL:** [https://cariere.metro.ro/job/lucrator-comercial-picker-perioada-determinata-in-strada-gheorghe-doja-targu-mures-jid-33669](https://cariere.metro.ro/job/lucrator-comercial-picker-perioada-determinata-in-strada-gheorghe-doja-targu-mures-jid-33669)
 - **Location:** România
 - **Tags:** sales operations
-- **Status:** scraped
-
-### Agent Vanzari HoReCa\_perioada determinata
-
-- **URL:** [https://cariere.metro.ro/job/agent-vanzari-horeca-perioada-determinata-in-soseaua-alba-iulia-79a-sibiu-jid-33542](https://cariere.metro.ro/job/agent-vanzari-horeca-perioada-determinata-in-soseaua-alba-iulia-79a-sibiu-jid-33542)
-- **Location:** România
-- **Tags:** sales force
 - **Status:** scraped
