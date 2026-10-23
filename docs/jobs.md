@@ -10,11 +10,18 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 3, B-DUL THEODOR PALLADY, NR.51 N, CLĂDIREA C6. CORP A |
 | Website | [https://www.metro.ro](https://www.metro.ro) |
 | Careers | [https://cariere.metro.ro/jobs](https://cariere.metro.ro/jobs) |
-| Last Scraped | 2026-10-22 |
+| Last Scraped | 2026-10-23 |
 
 ## Current Job Listings (12)
 
-_Generated: 2026-10-22T10:59:48.376Z_
+_Generated: 2026-10-23T10:53:35.026Z_
+
+### Consilier Vanzari Senior
+
+- **URL:** [https://cariere.metro.ro/job/consilier-vanzari-senior-in-calea-zimandului-arad-jid-35247](https://cariere.metro.ro/job/consilier-vanzari-senior-in-calea-zimandului-arad-jid-35247)
+- **Location:** România
+- **Tags:** store
+- **Status:** scraped
 
 ### Lucrator comercial-Picker\_Departament Executie Livrari\_Metro Sibiu
 
@@ -91,11 +98,4 @@ _Generated: 2026-10-22T10:59:48.376Z_
 - **URL:** [https://cariere.metro.ro/job/lucrator-comercial-picker-perioada-determinata-in-dn-2-bacau-jid-34019](https://cariere.metro.ro/job/lucrator-comercial-picker-perioada-determinata-in-dn-2-bacau-jid-34019)
 - **Location:** România
 - **Tags:** store
-- **Status:** scraped
-
-### Lucrator comercial/Picker (perioada determinata)
-
-- **URL:** [https://cariere.metro.ro/job/lucrator-comercial-picker-perioada-determinata-in-strada-gheorghe-doja-targu-mures-jid-33669](https://cariere.metro.ro/job/lucrator-comercial-picker-perioada-determinata-in-strada-gheorghe-doja-targu-mures-jid-33669)
-- **Location:** România
-- **Tags:** sales operations
 - **Status:** scraped
