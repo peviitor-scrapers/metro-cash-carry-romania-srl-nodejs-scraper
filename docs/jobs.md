@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 3, B-DUL THEODOR PALLADY, NR.51 N, CLĂDIREA C6. CORP A |
 | Website | [https://www.metro.ro](https://www.metro.ro) |
 | Careers | [https://cariere.metro.ro/jobs](https://cariere.metro.ro/jobs) |
-| Last Scraped | 2026-11-02 |
+| Last Scraped | 2026-11-03 |
 
 ## Current Job Listings (12)
 
-_Generated: 2026-11-02T14:32:49.227Z_
+_Generated: 2026-11-03T13:28:41.200Z_
 
 ### Consilier Vanzari Senior
 
@@ -35,13 +35,6 @@ _Generated: 2026-11-02T14:32:49.227Z_
 - **URL:** [https://cariere.metro.ro/job/agent-vanzari-horeca-in-dn2-bacau-jid-35171](https://cariere.metro.ro/job/agent-vanzari-horeca-in-dn2-bacau-jid-35171)
 - **Location:** România
 - **Tags:** sales force
-- **Status:** scraped
-
-### Junior Branding & Communication Specialist
-
-- **URL:** [https://cariere.metro.ro/job/junior-branding-and-communication-specialist-in-bulevardul-theodor-pallady-bucuresti-jid-34577](https://cariere.metro.ro/job/junior-branding-and-communication-specialist-in-bulevardul-theodor-pallady-bucuresti-jid-34577)
-- **Location:** România
-- **Tags:** marketing pr
 - **Status:** scraped
 
 ### Agent Vanzari Horeca - judetul Caras Severin
@@ -98,4 +91,11 @@ _Generated: 2026-11-02T14:32:49.227Z_
 - **URL:** [https://cariere.metro.ro/job/lucrator-comercial-picker-perioada-determinata-in-dn-2-bacau-jid-34019](https://cariere.metro.ro/job/lucrator-comercial-picker-perioada-determinata-in-dn-2-bacau-jid-34019)
 - **Location:** România
 - **Tags:** store
+- **Status:** scraped
+
+### Lucrator comercial/Picker (perioada determinata)
+
+- **URL:** [https://cariere.metro.ro/job/lucrator-comercial-picker-perioada-determinata-in-strada-gheorghe-doja-targu-mures-jid-33669](https://cariere.metro.ro/job/lucrator-comercial-picker-perioada-determinata-in-strada-gheorghe-doja-targu-mures-jid-33669)
+- **Location:** România
+- **Tags:** sales operations
 - **Status:** scraped
