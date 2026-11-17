@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 3, B-DUL THEODOR PALLADY, NR.51 N, CLĂDIREA C6. CORP A |
 | Website | [https://www.metro.ro](https://www.metro.ro) |
 | Careers | [https://cariere.metro.ro/jobs](https://cariere.metro.ro/jobs) |
-| Last Scraped | 2026-11-16 |
+| Last Scraped | 2026-11-17 |
 
 ## Current Job Listings (12)
 
-_Generated: 2026-11-16T14:32:43.479Z_
+_Generated: 2026-11-17T15:23:02.824Z_
 
 ### Lucrator comercial
 
@@ -86,16 +86,16 @@ _Generated: 2026-11-16T14:32:43.479Z_
 - **Tags:** store
 - **Status:** scraped
 
-### LUCRATOR COMERCIAL\_RAION PESTE\_METRO BACAU
+### Lucrator Comercial Departament Carne\_Metro Timisoara 1
 
-- **URL:** [https://cariere.metro.ro/job/lucrator-comercial-raion-peste-metro-bacau-in-dn-2-bacau-jid-34020](https://cariere.metro.ro/job/lucrator-comercial-raion-peste-metro-bacau-in-dn-2-bacau-jid-34020)
+- **URL:** [https://cariere.metro.ro/job/lucrator-comercial-departament-carne-metro-timisoara-1-in-calea-sagului-timisoara-jid-26269](https://cariere.metro.ro/job/lucrator-comercial-departament-carne-metro-timisoara-1-in-calea-sagului-timisoara-jid-26269)
 - **Location:** România
 - **Tags:** store
 - **Status:** scraped
 
-### Lucrator comercial/Picker (perioada determinata)
+### Lucrator comercial/ Casier - METRO Deva
 
-- **URL:** [https://cariere.metro.ro/job/lucrator-comercial-picker-perioada-determinata-in-dn-2-bacau-jid-34019](https://cariere.metro.ro/job/lucrator-comercial-picker-perioada-determinata-in-dn-2-bacau-jid-34019)
+- **URL:** [https://cariere.metro.ro/job/lucrator-comercial-casier-metro-deva-in-calea-zarandului-deva-jid-31216](https://cariere.metro.ro/job/lucrator-comercial-casier-metro-deva-in-calea-zarandului-deva-jid-31216)
 - **Location:** România
 - **Tags:** store
 - **Status:** scraped
