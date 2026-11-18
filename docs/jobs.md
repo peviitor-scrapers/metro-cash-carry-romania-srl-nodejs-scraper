@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 3, B-DUL THEODOR PALLADY, NR.51 N, CLĂDIREA C6. CORP A |
 | Website | [https://www.metro.ro](https://www.metro.ro) |
 | Careers | [https://cariere.metro.ro/jobs](https://cariere.metro.ro/jobs) |
-| Last Scraped | 2026-11-17 |
+| Last Scraped | 2026-11-18 |
 
 ## Current Job Listings (12)
 
-_Generated: 2026-11-17T15:23:02.824Z_
+_Generated: 2026-11-18T14:57:38.928Z_
 
 ### Lucrator comercial
 
@@ -79,23 +79,23 @@ _Generated: 2026-11-17T15:23:02.824Z_
 - **Tags:** logistics supply chain
 - **Status:** scraped
 
-### Lucrator Comercial
-
-- **URL:** [https://cariere.metro.ro/job/lucrator-comercial-in-calea-zimandului-nr-43c-arad-jid-34216](https://cariere.metro.ro/job/lucrator-comercial-in-calea-zimandului-nr-43c-arad-jid-34216)
-- **Location:** România
-- **Tags:** store
-- **Status:** scraped
-
-### Lucrator Comercial Departament Carne\_Metro Timisoara 1
-
-- **URL:** [https://cariere.metro.ro/job/lucrator-comercial-departament-carne-metro-timisoara-1-in-calea-sagului-timisoara-jid-26269](https://cariere.metro.ro/job/lucrator-comercial-departament-carne-metro-timisoara-1-in-calea-sagului-timisoara-jid-26269)
-- **Location:** România
-- **Tags:** store
-- **Status:** scraped
-
 ### Lucrator comercial/ Casier - METRO Deva
 
 - **URL:** [https://cariere.metro.ro/job/lucrator-comercial-casier-metro-deva-in-calea-zarandului-deva-jid-31216](https://cariere.metro.ro/job/lucrator-comercial-casier-metro-deva-in-calea-zarandului-deva-jid-31216)
 - **Location:** România
 - **Tags:** store
+- **Status:** scraped
+
+### Tax Manager
+
+- **URL:** [https://cariere.metro.ro/job/tax-manager-in-bulevardul-theodor-pallady-bucuresti-jid-29499](https://cariere.metro.ro/job/tax-manager-in-bulevardul-theodor-pallady-bucuresti-jid-29499)
+- **Location:** România
+- **Tags:** financiar
+- **Status:** scraped
+
+### Picker (pregătire comenzi)
+
+- **URL:** [https://cariere.metro.ro/job/picker-pregatire-comenzi-in-bulevardul-theodor-pallady-bucuresti-jid-15142](https://cariere.metro.ro/job/picker-pregatire-comenzi-in-bulevardul-theodor-pallady-bucuresti-jid-15142)
+- **Location:** România
+- **Tags:** logistics delivery
 - **Status:** scraped
