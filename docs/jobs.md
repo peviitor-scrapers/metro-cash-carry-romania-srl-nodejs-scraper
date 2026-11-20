@@ -10,24 +10,24 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 3, B-DUL THEODOR PALLADY, NR.51 N, CLĂDIREA C6. CORP A |
 | Website | [https://www.metro.ro](https://www.metro.ro) |
 | Careers | [https://cariere.metro.ro/jobs](https://cariere.metro.ro/jobs) |
-| Last Scraped | 2026-11-19 |
+| Last Scraped | 2026-11-20 |
 
-## Current Job Listings (12)
+## Current Job Listings (14)
 
-_Generated: 2026-11-19T15:04:55.040Z_
-
-### Lucrator comercial
-
-- **URL:** [https://cariere.metro.ro/job/lucrator-comercial-in-bulevardul-1-decembrie-1918-5-suceava-jid-35533](https://cariere.metro.ro/job/lucrator-comercial-in-bulevardul-1-decembrie-1918-5-suceava-jid-35533)
-- **Location:** România
-- **Tags:** comercial
-- **Status:** scraped
+_Generated: 2026-11-20T14:46:20.109Z_
 
 ### Agent vanzari Trader
 
 - **URL:** [https://cariere.metro.ro/job/agent-vanzari-trader-in-bulevardul-1-decembrie-1918-5-suceava-jid-35530](https://cariere.metro.ro/job/agent-vanzari-trader-in-bulevardul-1-decembrie-1918-5-suceava-jid-35530)
 - **Location:** România
 - **Tags:** sales force
+- **Status:** scraped
+
+### Lucrator comercial
+
+- **URL:** [https://cariere.metro.ro/job/lucrator-comercial-in-bulevardul-1-decembrie-1918-5-suceava-jid-35533](https://cariere.metro.ro/job/lucrator-comercial-in-bulevardul-1-decembrie-1918-5-suceava-jid-35533)
+- **Location:** România
+- **Tags:** comercial
 - **Status:** scraped
 
 ### Consilier Vanzari Senior
@@ -98,4 +98,16 @@ _Generated: 2026-11-19T15:04:55.040Z_
 - **URL:** [https://cariere.metro.ro/job/picker-pregatire-comenzi-in-bulevardul-theodor-pallady-bucuresti-jid-15142](https://cariere.metro.ro/job/picker-pregatire-comenzi-in-bulevardul-theodor-pallady-bucuresti-jid-15142)
 - **Location:** România
 - **Tags:** logistics delivery
+- **Status:** scraped
+
+### LUCRATOR COMERCIAL
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3453120](https://mediere.anofm.ro/app/module/mediere/job/3453120)
+- **Location:** SUCEAVA
+- **Status:** scraped
+
+### ELECTRICIAN ECHIPAMENTE ELECTRICE SI ENERGETICE
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3453113](https://mediere.anofm.ro/app/module/mediere/job/3453113)
+- **Location:** România
 - **Status:** scraped
