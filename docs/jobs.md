@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 3, B-DUL THEODOR PALLADY, NR.51 N, CLĂDIREA C6. CORP A |
 | Website | [https://www.metro.ro](https://www.metro.ro) |
 | Careers | [https://cariere.metro.ro/jobs](https://cariere.metro.ro/jobs) |
-| Last Scraped | 2026-11-23 |
+| Last Scraped | 2026-11-24 |
 
 ## Current Job Listings (14)
 
-_Generated: 2026-11-23T17:08:26.614Z_
+_Generated: 2026-11-24T16:51:48.727Z_
 
 ### Agent vanzari Trader
 
