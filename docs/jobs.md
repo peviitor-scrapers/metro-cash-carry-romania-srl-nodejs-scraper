@@ -10,11 +10,32 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 3, B-DUL THEODOR PALLADY, NR.51 N, CLĂDIREA C6. CORP A |
 | Website | [https://www.metro.ro](https://www.metro.ro) |
 | Careers | [https://cariere.metro.ro/jobs](https://cariere.metro.ro/jobs) |
-| Last Scraped | 2026-11-24 |
+| Last Scraped | 2026-11-25 |
 
 ## Current Job Listings (14)
 
-_Generated: 2026-11-24T16:51:48.727Z_
+_Generated: 2026-11-25T16:40:03.453Z_
+
+### Consilier Vanzari Senior
+
+- **URL:** [https://cariere.metro.ro/job/consilier-vanzari-senior-in-dn2-280-nicolae-balcescu-jid-35731](https://cariere.metro.ro/job/consilier-vanzari-senior-in-dn2-280-nicolae-balcescu-jid-35731)
+- **Location:** România
+- **Tags:** store
+- **Status:** scraped
+
+### Consilier Vanzari Senior
+
+- **URL:** [https://cariere.metro.ro/job/consilier-vanzari-senior-in-dn2-km-280-nicolae-balcescu-jid-35730](https://cariere.metro.ro/job/consilier-vanzari-senior-in-dn2-km-280-nicolae-balcescu-jid-35730)
+- **Location:** România
+- **Tags:** store
+- **Status:** scraped
+
+### Consilier Vanzari Senior
+
+- **URL:** [https://cariere.metro.ro/job/consilier-vanzari-senior-in-dn2-km-280-nicolae-balcescu-jid-35717](https://cariere.metro.ro/job/consilier-vanzari-senior-in-dn2-km-280-nicolae-balcescu-jid-35717)
+- **Location:** România
+- **Tags:** store
+- **Status:** scraped
 
 ### Agent vanzari Trader
 
@@ -28,13 +49,6 @@ _Generated: 2026-11-24T16:51:48.727Z_
 - **URL:** [https://cariere.metro.ro/job/lucrator-comercial-in-bulevardul-1-decembrie-1918-5-suceava-jid-35533](https://cariere.metro.ro/job/lucrator-comercial-in-bulevardul-1-decembrie-1918-5-suceava-jid-35533)
 - **Location:** România
 - **Tags:** comercial
-- **Status:** scraped
-
-### Consilier Vanzari Senior
-
-- **URL:** [https://cariere.metro.ro/job/consilier-vanzari-senior-in-calea-zimandului-arad-jid-35247](https://cariere.metro.ro/job/consilier-vanzari-senior-in-calea-zimandului-arad-jid-35247)
-- **Location:** România
-- **Tags:** store
 - **Status:** scraped
 
 ### Lucrator comercial-Picker\_Departament Executie Livrari\_Metro Sibiu
@@ -84,20 +98,6 @@ _Generated: 2026-11-24T16:51:48.727Z_
 - **URL:** [https://cariere.metro.ro/job/lucrator-comercial-casier-metro-deva-in-calea-zarandului-deva-jid-31216](https://cariere.metro.ro/job/lucrator-comercial-casier-metro-deva-in-calea-zarandului-deva-jid-31216)
 - **Location:** România
 - **Tags:** store
-- **Status:** scraped
-
-### Tax Manager
-
-- **URL:** [https://cariere.metro.ro/job/tax-manager-in-bulevardul-theodor-pallady-bucuresti-jid-29499](https://cariere.metro.ro/job/tax-manager-in-bulevardul-theodor-pallady-bucuresti-jid-29499)
-- **Location:** România
-- **Tags:** financiar
-- **Status:** scraped
-
-### Picker (pregătire comenzi)
-
-- **URL:** [https://cariere.metro.ro/job/picker-pregatire-comenzi-in-bulevardul-theodor-pallady-bucuresti-jid-15142](https://cariere.metro.ro/job/picker-pregatire-comenzi-in-bulevardul-theodor-pallady-bucuresti-jid-15142)
-- **Location:** România
-- **Tags:** logistics delivery
 - **Status:** scraped
 
 ### LUCRATOR COMERCIAL
