@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 3, B-DUL THEODOR PALLADY, NR.51 N, CLĂDIREA C6. CORP A |
 | Website | [https://www.metro.ro](https://www.metro.ro) |
 | Careers | [https://cariere.metro.ro/jobs](https://cariere.metro.ro/jobs) |
-| Last Scraped | 2026-11-26 |
+| Last Scraped | 2026-11-27 |
 
 ## Current Job Listings (14)
 
-_Generated: 2026-11-26T16:13:53.186Z_
+_Generated: 2026-11-27T15:58:49.788Z_
 
 ### Consilier Vanzari Senior
 
@@ -58,13 +58,6 @@ _Generated: 2026-11-26T16:13:53.186Z_
 - **Tags:** store
 - **Status:** scraped
 
-### Agent Vanzari Horeca
-
-- **URL:** [https://cariere.metro.ro/job/agent-vanzari-horeca-in-dn2-bacau-jid-35171](https://cariere.metro.ro/job/agent-vanzari-horeca-in-dn2-bacau-jid-35171)
-- **Location:** România
-- **Tags:** sales force
-- **Status:** scraped
-
 ### Agent Vanzari Horeca - judetul Caras Severin
 
 - **URL:** [https://cariere.metro.ro/job/agent-vanzari-horeca-judetul-caras-severin-in-calea-torontalului-timisoara-jid-34632](https://cariere.metro.ro/job/agent-vanzari-horeca-judetul-caras-severin-in-calea-torontalului-timisoara-jid-34632)
@@ -98,6 +91,13 @@ _Generated: 2026-11-26T16:13:53.186Z_
 - **URL:** [https://cariere.metro.ro/job/lucrator-comercial-casier-metro-deva-in-calea-zarandului-deva-jid-31216](https://cariere.metro.ro/job/lucrator-comercial-casier-metro-deva-in-calea-zarandului-deva-jid-31216)
 - **Location:** România
 - **Tags:** store
+- **Status:** scraped
+
+### Tax Manager
+
+- **URL:** [https://cariere.metro.ro/job/tax-manager-in-bulevardul-theodor-pallady-bucuresti-jid-29499](https://cariere.metro.ro/job/tax-manager-in-bulevardul-theodor-pallady-bucuresti-jid-29499)
+- **Location:** România
+- **Tags:** financiar
 - **Status:** scraped
 
 ### LUCRATOR COMERCIAL
